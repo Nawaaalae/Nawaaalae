@@ -1,16 +1,41 @@
-## Hi there 👋
+# Nawal Ahmed 👋
 
-<!--
-**Nawaaalae/Nawaaalae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | Computer Vision & Real-Time ML
+📍 London, UK
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I build real-time AI systems focused on computer vision and scalable machine learning applications.
+Experienced with TensorFlow, OpenCV, AWS, and Docker.
+
+---
+
+## 🔥 Projects
+
+### 🚗 AI Dashcam System
+
+👉 https://github.com/Nawaaalae/Ai-dashcam-system
+
+Real-time hazard detection using YOLO and live video processing.
+
+---
+
+### 🎮 Java Game (15from3)
+
+👉 https://github.com/Nawaaalae/15-from-3-Java-game
+
+MVC-based multiplayer game with 95% test coverage.
+
+---
+
+## ⚙️ Tech
+
+Python • Java • TensorFlow • OpenCV • AWS • Docker
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/muhammadnawalahmed
