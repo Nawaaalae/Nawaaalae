@@ -1,7 +1,6 @@
 # Nawal Ahmed 👋
 
-🚀 AI Engineer | Computer Vision & Real-Time ML
-📍 London, UK
+🚀 AI Engineer | Computer Vision & Real-Time ML | London, UK
 
 ---
 
