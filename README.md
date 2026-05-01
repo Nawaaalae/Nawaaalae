@@ -21,6 +21,14 @@ Real-time hazard detection using YOLO and live video processing.
 
 ---
 
+🍽️ Meal Planning & Recipe Management Web Application
+
+👉 https://github.com/Nawaaalae/MealPlanner
+
+A full-stack web application developed using Angular, Flask, and MongoDB to help users manage recipes, create meal plans, and track nutrition efficiently.
+
+
+---
 ### 🎮 Java Game (15from3)
 
 👉 https://github.com/Nawaaalae/15-from-3-Java-game
